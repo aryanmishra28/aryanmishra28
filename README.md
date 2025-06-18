@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **open-source web development projects and hackathons**.
 - 🤔 I’m looking for help with **optimizing performance in full-stack apps and deploying scalable solutions**.
 - 💬 Ask me about **JavaScript, React, GitHub, hackathon tips, or anything tech-related**.
-- 📫 How to reach me: **aryanmishra1851@gmail.com** or [LinkedIn](www.linkedin.com/in/aryan-mishra-0a6180309)
+- 📫 How to reach me: **aryanmishra1851@gmail.com** or [LinkedIn](aryan-mishra-0a6180309)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I can debug code while dancing to my favorite playlist. Multitasking level: Pro 💃💻
 
