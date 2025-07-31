@@ -64,7 +64,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=aryanmishra28&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=aryanmishra28&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmishra28&theme=dark&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmishra28&theme=dark&hide_border=false&layout=compact&hide=html,css)
 
 
 ---
